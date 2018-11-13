@@ -1,4 +1,4 @@
-﻿CKEDITOR.plugins.add('flashplayer', {
+CKEDITOR.plugins.add('flashplayer', {
 	init: function(editor) {
 		//plugin code goes here
 		var pluginName = 'flashplayer';
