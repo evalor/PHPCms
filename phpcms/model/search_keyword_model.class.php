@@ -10,4 +10,3 @@ class search_keyword_model extends model {
 		parent::__construct();
 	}
 }
-?>

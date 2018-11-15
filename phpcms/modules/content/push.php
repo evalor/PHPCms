@@ -63,4 +63,3 @@ class push extends admin {
 		}
 	}
 }
-?>

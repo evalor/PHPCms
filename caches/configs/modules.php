@@ -10,4 +10,3 @@ return array (
   'block' => '碎片',
   'comment' => '评论',
 );
-?>

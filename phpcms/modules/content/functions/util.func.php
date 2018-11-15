@@ -58,4 +58,3 @@ function content_pages($num, $curr_page,$pageurls) {
 	return $multipage;
 }
 
-?>

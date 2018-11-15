@@ -55,4 +55,3 @@ $LANG['code_or_not']					=	'Enable auth code';
 $LANG['choose_true_type']				=	'Please select correct classification';
 $LANG['application_links']				=	'Partner Link application';
 $LANG['link_onerror']					=	'Format should be http://www.phpcms.cn/';
-?>

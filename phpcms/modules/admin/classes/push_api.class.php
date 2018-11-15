@@ -218,4 +218,3 @@ class push_api {
 	}
  }
 
- ?>

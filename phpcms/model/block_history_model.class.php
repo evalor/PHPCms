@@ -9,4 +9,3 @@ class block_history_model extends model {
 		parent::__construct();
 	}
 }
-?>

@@ -370,4 +370,3 @@ $LANG['comment_manage'] = 'Manage comment';
 $LANG['sync_release_point'] = 'Sync to publishing point'
 
 
-?>

@@ -35,4 +35,3 @@ $LANG['content_module'] = 'Content module';
 $LANG['edit_cat'] = 'Edit category';
 $LANG['searh_notice'] = 'Warning: full text index module requires that mysql enables full text index function. How to enable? Edit mysql configuration file -> Set window server to my.ini -> Set linux server to my.cnf -> Add a line "ft_min_word_len=1" after [mysqld] -> restart mysql
 ';
-?>

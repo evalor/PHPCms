@@ -143,4 +143,3 @@ if ($_POST['playnum']) {
 
 echo json_encode(array('msg'=>'Add Success', 'code'=>'200'));
 exit;
-?>

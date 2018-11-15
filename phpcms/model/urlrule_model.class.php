@@ -9,4 +9,3 @@ class urlrule_model extends model {
 		parent::__construct();
 	}
 }
-?>

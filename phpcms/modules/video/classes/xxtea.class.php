@@ -109,4 +109,3 @@ class xxtea {
 		return $this->long2str($v, true);
 	}
 }
-?>

@@ -244,4 +244,3 @@ class sitemodel_field extends admin {
 		include $this->admin_tpl('sitemodel_priview');
 	}
 }
-?>

@@ -12,4 +12,3 @@ $menu_db->insert(array('name'=>'statistics_userlist', 'parentid'=>$parentid, 'm'
 $menu_db->insert(array('name'=>'create_js', 'parentid'=>$parentid, 'm'=>'vote', 'c'=>'vote', 'a'=>'create_js', 'data'=>'', 'listorder'=>0, 'display'=>'1'));
 
 $language = array('vote'=>'投票', 'add_vote'=>'添加投票', 'edit_vote'=>'编辑投票','delete_vote'=>'删除投票', 'vote_setting'=>'投票配置', 'statistics_vote'=>'查看统计', 'statistics_userlist'=>'会员统计','create_js'=>'更新JS');
-?>

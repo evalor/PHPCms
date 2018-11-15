@@ -54,4 +54,3 @@ function template_url($id) {
 	}
 	return $filepath;
 }
-?>

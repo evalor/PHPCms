@@ -176,4 +176,3 @@ class deposit extends foreground {
 		}
 	}
 }
-?>

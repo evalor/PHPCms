@@ -15,4 +15,3 @@ if (isset($set_modules) && $set_modules == TRUE)
     $modules[$i]['config']  = array();
     return;
 }
-?>

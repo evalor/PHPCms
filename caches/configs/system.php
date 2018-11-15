@@ -67,4 +67,3 @@ return array(
 
 'admin_url' => '',	//允许访问后台的域名
 );
-?>

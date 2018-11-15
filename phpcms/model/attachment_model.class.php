@@ -112,4 +112,3 @@ class attachment_model extends model {
 		}		
 	}
 }
-?>

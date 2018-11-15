@@ -10,4 +10,3 @@ class admin_role_model extends model {
 		parent::__construct();
 	}
 }
-?>

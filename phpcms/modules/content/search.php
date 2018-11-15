@@ -204,4 +204,3 @@ class search {
 		include template('content','search');
 	}
 }
-?>

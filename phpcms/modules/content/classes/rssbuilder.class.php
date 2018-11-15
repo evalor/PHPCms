@@ -1720,4 +1720,4 @@ class RSSItem extends RSSBase {
 	} // end function
 	/**#@-*/
 } // end class RSSItem
-?>
+

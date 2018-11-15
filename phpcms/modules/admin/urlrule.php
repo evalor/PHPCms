@@ -117,4 +117,3 @@ class urlrule extends admin {
         return true;
     }
 }
-?>

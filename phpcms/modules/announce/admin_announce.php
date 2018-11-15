@@ -164,4 +164,3 @@ class admin_announce extends admin {
 		return $data;
 	}
 }
-?>

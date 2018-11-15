@@ -93,4 +93,3 @@ class ipbanned extends admin {
 		return true;
  	}
 }
-?>

@@ -33,4 +33,3 @@ class pay_factory  {
 		return call_user_func_array(array(& $this->adapter_instance, $method_name), $method_args);
 	}	
 }
-?>

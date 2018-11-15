@@ -86,4 +86,3 @@ class ipbanned_model extends model {
 		}
 	}
 }
-?>

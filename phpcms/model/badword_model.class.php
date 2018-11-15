@@ -30,4 +30,3 @@ class badword_model extends model {
  		return $str;
  	}
 }
-?>

@@ -148,4 +148,3 @@ class search_type extends admin {
 		return true;
 	}
 }
-?>

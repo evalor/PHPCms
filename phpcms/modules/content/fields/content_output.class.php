@@ -22,4 +22,4 @@ class content_output {
 		}
 		return $info;
 	}
-}?>
+}

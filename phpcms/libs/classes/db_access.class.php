@@ -206,4 +206,3 @@ function select_db($dbname)
 		return $info;
 	}
 }
-?>

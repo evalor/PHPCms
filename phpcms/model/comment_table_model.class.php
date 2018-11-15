@@ -34,4 +34,3 @@ class comment_table_model extends model {
 		}
 	}
 }
-?>

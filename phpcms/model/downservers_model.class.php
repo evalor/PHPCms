@@ -9,4 +9,3 @@ class downservers_model extends model {
 		parent::__construct();
 	}
 }
-?>

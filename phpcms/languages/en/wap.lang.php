@@ -48,4 +48,3 @@ $LANG['wap_guestbook'] = 'Your comment has been successfully posted. The page is
 $LANG['wap_goback'] = 'Back to content page';
 $LANG['wap_close_status'] = 'The page cannot found or WAP is not enabled.';
 $LANG['wap_hotword_desc'] = 'For example, "phpcms|http://wap.phpcms.cn", Each popular word must start on a new line.';
-?>

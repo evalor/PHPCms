@@ -275,4 +275,3 @@ class role extends admin {
 	}
 	
 }
-?>

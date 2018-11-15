@@ -16,4 +16,3 @@ $language = array(
 				'sms_api'=>'短信API',
 				'sms_sent'=>'短信群发',
 				);
-?>

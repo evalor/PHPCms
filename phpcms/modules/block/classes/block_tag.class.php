@@ -67,4 +67,3 @@ class block_tag {
 		return $filepath;
 	}
 }
-?>

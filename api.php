@@ -23,4 +23,3 @@ if (!preg_match('/([^a-z_]+)/i',$op) && file_exists(PHPCMS_PATH.'api/'.$op.'.php
 } else {
 	exit('API handler does not exist');
 }
-?>

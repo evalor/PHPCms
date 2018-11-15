@@ -32,4 +32,3 @@ $ku6api = new ku6api($video_setting['skey'], $video_setting['sn']);
 
 $msg = $ku6api->update_video_status_from_vms();
 exit($msg);
-?>

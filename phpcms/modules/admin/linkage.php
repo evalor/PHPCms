@@ -300,4 +300,3 @@ class linkage extends admin {
 		return $arrchildid;
 	}		
 }
-?>

@@ -244,4 +244,3 @@ class ip_area {
 		@fclose($this->fp);
 	}
 }
-?>

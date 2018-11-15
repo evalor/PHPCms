@@ -303,4 +303,3 @@ class sitemodel extends admin {
 		return true;
 	}
 }
-?>

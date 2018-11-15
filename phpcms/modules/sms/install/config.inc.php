@@ -7,4 +7,3 @@ $introduce = '短信平台';
 $author = 'phpcms team';
 $authorsite = 'http://www.phpcms.cn';
 $authoremail = '';
-?>

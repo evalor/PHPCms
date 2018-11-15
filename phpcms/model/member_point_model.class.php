@@ -9,4 +9,3 @@ class member_point_model extends model {
 		parent::__construct();
 	}
 }
-?>

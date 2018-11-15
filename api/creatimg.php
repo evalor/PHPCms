@@ -39,4 +39,3 @@ if(extension_loaded('gd') && $txt ) {
 	imagepng ($im);
 	imagedestroy ($im);	
 }
-?>

@@ -188,4 +188,3 @@ class special_tag {
 		);
 	}
 }
-?>

@@ -7,4 +7,3 @@ $introduce = '视频库管理';
 $author = 'phpcms team';
 $authorsite = 'http://www.phpcms.cn';
 $authoremail = 'phpcms@snda.com';
-?>

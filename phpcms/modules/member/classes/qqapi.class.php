@@ -57,4 +57,3 @@ class qqapi{
             return $result->nickname;
         }
 }
-?>

@@ -105,4 +105,3 @@ function safe_getcache($str) {
 	$str = preg_replace('/(\/){1,}|(\\\){1,}/', '', $str);
 	return $str;
 }
-?>

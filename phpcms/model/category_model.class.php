@@ -10,4 +10,3 @@ class category_model extends model {
 		parent::__construct();
 	}
 }
-?>

@@ -69,4 +69,3 @@ switch($field_type) {
 		$this->db->query("ALTER TABLE `$tablename` ADD `paytype` tinyint(1) unsigned NOT NULL default '0'");
 	break;
 }
-?>

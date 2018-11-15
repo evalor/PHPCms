@@ -321,4 +321,3 @@ class space extends admin {
 		return $data;
 	}
 }
-?>

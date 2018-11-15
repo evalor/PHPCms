@@ -15,4 +15,3 @@ $LANG['api_changecity'] = '更换城市';
 $LANG['api_citylist'] = '城市列表';
 $LANG['api_inputcity'] = '输入城市名';
 $LANG['api_citysear_submit'] = '确定';
-?>

@@ -137,4 +137,3 @@ class workflow extends admin {
 		return substr($string,0,-$length);
 	}
 }
-?>

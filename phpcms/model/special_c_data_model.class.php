@@ -10,4 +10,3 @@ class special_c_data_model extends model {
 		parent::__construct();
 	}
 }
-?>

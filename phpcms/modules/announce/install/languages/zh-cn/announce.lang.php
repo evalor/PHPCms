@@ -44,4 +44,3 @@ $LANG['select_style']					=	'请选择风格!';
 $LANG['available_style']				=	'可用风格';
 $LANG['lists']							=	'列表';
 $LANG['sitename']						=	'站点';
-?>

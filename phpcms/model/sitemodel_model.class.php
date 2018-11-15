@@ -73,4 +73,3 @@ class sitemodel_model extends model {
 	}
 
 }
-?>

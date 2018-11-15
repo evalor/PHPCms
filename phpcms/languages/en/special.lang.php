@@ -197,4 +197,3 @@ $LANG['week']								=	'This week';
 $LANG['month']								=	'This month';
 $LANG['please_upload_thumb']				=	'Please first upload thumbnail pictures';
 $LANG['crop_thumb']							=	'Crop';
-?>

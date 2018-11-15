@@ -72,4 +72,3 @@ function mk_pay_btn($data,$attr='class="payment-show"',$ishow='1') {
 	}
 	return $pay_type;
 }
-?>

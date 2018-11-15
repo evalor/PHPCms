@@ -173,4 +173,3 @@ class menu extends admin {
 		return true;
 	}
 }
-?>

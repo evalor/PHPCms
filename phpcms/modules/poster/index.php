@@ -120,4 +120,3 @@ class index {
 		return true;
 	}
 }
-?>

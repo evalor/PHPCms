@@ -164,4 +164,3 @@ $LANG['all_list']						=	'全部列出';
 $LANG['only_one']						=	'按排序列出一个';
 $LANG['is_used_type']					=	'可用广告类型';
 $LANG['max_add_param']					=	'一次最多添加的图片等元素数量';
-?>

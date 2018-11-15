@@ -168,4 +168,3 @@ function sendmail($toemail, $subject, $message, $from='',$cfg = array(), $sitena
 	fputs($fp, "QUIT\r\n");
 	return true;
 }
-?>

@@ -56,4 +56,4 @@ class formguide_input {
 		}
 		return $info;
 	}
-}?>
+}

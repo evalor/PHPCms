@@ -9,4 +9,3 @@ class category_priv_model extends model {
 		parent::__construct();
 	}
 }
-?>

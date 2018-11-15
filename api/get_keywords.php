@@ -29,4 +29,3 @@ function get_keywords($data, $number = 3) {
 	}
 	return '';
 }
-?>

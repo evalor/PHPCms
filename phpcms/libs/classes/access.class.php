@@ -135,4 +135,3 @@ class access{
 		return $info;
 	}
 }
-?>

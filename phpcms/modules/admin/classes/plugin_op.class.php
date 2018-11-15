@@ -39,4 +39,3 @@ class plugin_op {
 		return $info;
 	}
 }
-?>

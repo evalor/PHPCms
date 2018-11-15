@@ -64,4 +64,3 @@ class template extends admin {
 		showmessage(L('operation_success'), HTTP_REFERER);
 	}
 }
-?>

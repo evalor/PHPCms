@@ -65,4 +65,3 @@ switch($field_type) {
 	break;
 
 }
-?>

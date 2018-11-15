@@ -103,4 +103,3 @@ class vote_option_model extends model {
 		return $this->delete(array('optionid'=>$optionid));
 	}
 }
-?>

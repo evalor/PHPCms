@@ -26,4 +26,3 @@ class members_model extends model {
 
 
 }
-?>

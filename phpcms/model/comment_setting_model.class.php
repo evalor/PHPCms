@@ -18,4 +18,3 @@ class comment_setting_model extends model {
 		return $this->get_one(array('siteid'=>$siteid));
 	}
 }
-?>

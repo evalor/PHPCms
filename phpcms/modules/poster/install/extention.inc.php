@@ -47,4 +47,3 @@ if (is_array($sqls)) {
 unset($pdb);
 
 $language = array('poster'=>'广告', 'add_space'=>'添加版位', 'edit_space'=>'编辑版位', 'del_space'=>'删除版位', 'poster_list'=>'广告列表', 'add_poster'=>'添加广告', 'edit_poster'=>'编辑广告', 'del_poster'=>'删除广告', 'poster_stat'=>'广告统计', 'poster_setting'=>'模块配置', 'create_poster_js'=>'重新生成js', 'poster_template'=>'广告模板设置');
-?>

@@ -292,4 +292,3 @@ class formguide extends admin {
 		return $ret;
 	}
 }
-?>

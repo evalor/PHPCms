@@ -186,4 +186,3 @@ $LANG['query_stat'] = 'View statistics';
 $LANG['total_transactions'] = 'All transactions';
 $LANG['transactions_success'] = 'Successful trading';
 $LANG['pay_tip'] = 'We currently support the way of transfter. Please continue to bank transfer based on your payment type. Also, please contact us after paying your purchase';
-?>

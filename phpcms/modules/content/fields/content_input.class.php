@@ -69,4 +69,4 @@ class content_input {
 		}
 		return $info;
 	}
-}?>
+}

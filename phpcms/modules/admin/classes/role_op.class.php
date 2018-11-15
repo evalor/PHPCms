@@ -90,4 +90,3 @@ class role_op {
 		}
 	}
 }
-?>

@@ -286,4 +286,3 @@ class message extends admin {
 	
 	
 }
-?>

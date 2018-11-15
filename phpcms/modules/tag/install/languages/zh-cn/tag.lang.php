@@ -44,4 +44,3 @@ $LANG['data_return']								=	'数据返回值';
 $LANG['cache_times']								=	'缓存时间';
 $LANG['click_copy_code']							=	'双击复制文本框中的代码';
 $LANG['return_value']								=	'请输入数据返回值，默认为：data。';
-?>

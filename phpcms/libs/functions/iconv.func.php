@@ -262,4 +262,3 @@ function array_gbk_to_utf8($data) {
 		return $data;
 	}
 }
-?>

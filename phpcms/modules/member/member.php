@@ -763,4 +763,3 @@ class member extends admin {
 	}
 	
 }
-?>

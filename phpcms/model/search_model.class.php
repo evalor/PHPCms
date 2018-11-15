@@ -43,4 +43,3 @@ class search_model extends model {
 		$this->delete(array('typeid'=>$typeid,'id'=>$id));
 	}
 }
-?>

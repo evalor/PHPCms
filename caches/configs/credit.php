@@ -7,4 +7,3 @@ return array(
 				2 => array('金币', '金'),
 			);
 
-?>

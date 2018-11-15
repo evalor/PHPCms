@@ -30,4 +30,3 @@ class member_model extends model {
 
 
 }
-?>

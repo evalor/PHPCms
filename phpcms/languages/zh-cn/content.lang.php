@@ -328,4 +328,3 @@ $LANG['models'] = '模型';
 $LANG['video_library'] = '视频库';
 $LANG['can_not_recovered'] = '清理后，不可恢复';
 $LANG['clear'] = '清理';
-?>

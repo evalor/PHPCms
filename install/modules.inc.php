@@ -8,4 +8,3 @@ $PHPCMS_MODULES = array(
 'modules'=>array('announce'=>'网站公告','comment'=>'评论','link'=>'友情链接','vote'=>'投票','message'=>'短消息','mood'=>'心情指数','poster'=>'广告管理','formguide'=>'表单向导','wap'=>'手机门户','upgrade'=>'在线升级','tag'=>'标签向导','sms'=>'短信平台'),
 'introduce'=>array()
 );
-?>

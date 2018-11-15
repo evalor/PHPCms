@@ -537,4 +537,3 @@ class create_html extends admin {
 		}
 	}
 }
-?>

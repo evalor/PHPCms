@@ -376,4 +376,3 @@ class segment {
 	  return $fnum;
   }
 }
-?>

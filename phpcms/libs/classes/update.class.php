@@ -83,4 +83,3 @@ class update {
 	   return $r['uuid'];
 	}	
 }
-?>

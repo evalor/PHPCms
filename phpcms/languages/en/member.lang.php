@@ -379,4 +379,3 @@ $LANG['url'] = 'External Links';
 $LANG['info_top'] = 'Classified Info On top';
 $LANG['info_top_not_setting_toptime'] = 'You have to set sticky date and type, please try again.';
 $LANG['url'] = 'External Links';
-?>

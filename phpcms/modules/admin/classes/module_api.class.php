@@ -253,4 +253,3 @@ class module_api {
 		return $ret;
 	}
 }
-?>

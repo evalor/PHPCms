@@ -9,4 +9,3 @@ class link_model extends model {
 		parent::__construct();
 	} 
 }
-?>

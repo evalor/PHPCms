@@ -289,4 +289,3 @@ class index {
 		include template('wap', 'big_image');
 	}
 }
-?>

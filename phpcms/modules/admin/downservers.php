@@ -103,4 +103,3 @@ class downservers extends admin {
 	}
 	
 }
-?>

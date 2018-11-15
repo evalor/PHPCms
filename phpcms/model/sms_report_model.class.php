@@ -9,4 +9,3 @@ class sms_report_model extends model {
 		parent::__construct();
 	}
 }
-?>

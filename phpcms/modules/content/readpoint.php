@@ -57,4 +57,3 @@ class readpoint {
 		showmessage($msg,$http_referer,3000);
 	}
 }
-?>

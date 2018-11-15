@@ -283,4 +283,3 @@ class admin_manage extends admin {
 		return $code;
 	}	
 }
-?>

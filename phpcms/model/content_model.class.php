@@ -472,4 +472,3 @@ class content_model extends model {
 		setcache('category_items_'.$this->modelid, $array,'commons');
 	}
 }
-?>

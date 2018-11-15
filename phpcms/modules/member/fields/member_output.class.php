@@ -22,4 +22,4 @@ class member_output {
 		}
 		return $info;
 	}
-}?>
+}

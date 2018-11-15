@@ -82,4 +82,3 @@ if (is_array($result) && !empty($result)) {
 
 $video_store_db->update(array('status'=>'-30'), array('vid'=>$vid));
 echo json_encode(array('msg'=>'Delete video successful', 'code'=>200,'vid'=>$vid));
-?>

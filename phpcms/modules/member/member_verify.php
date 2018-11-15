@@ -328,4 +328,3 @@ class member_verify extends admin {
 		}
 	}
 }
-?>

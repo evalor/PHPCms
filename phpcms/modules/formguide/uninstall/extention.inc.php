@@ -11,4 +11,3 @@ if (is_array($result)) {
 		$form_field_db->query('DROP TABLE IF EXISTS `phpcms_'.$tablename.'`;');
 	}
 }
-?>

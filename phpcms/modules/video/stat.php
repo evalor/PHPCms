@@ -152,4 +152,3 @@ class stat extends admin {
 	
 }
 
-?>

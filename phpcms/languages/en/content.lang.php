@@ -310,4 +310,3 @@ $LANG['guest_not_allowsearch'] = 'Visitor does not be allow to use search functi
 $LANG['cut_the_picture'] = 'Crop';
 $LANG['moreinfo'] = 'Invoke more info';
 
-?>

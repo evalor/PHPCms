@@ -164,4 +164,3 @@ if (strtolower(CHARSET)!='utf-8') {
 }
 $video_store_db->update($data, array('vid'=>$vid));
 echo json_encode(array('msg'=>'Edit successful', 'code'=>200,'vid'=>$vid));
-?>

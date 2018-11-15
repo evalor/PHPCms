@@ -8,4 +8,3 @@ $introduce = '独立模块';
 $author = 'phpcms Team';
 $authorsite = 'http://www.phpcms.cn';
 $authoremail = '';
-?>

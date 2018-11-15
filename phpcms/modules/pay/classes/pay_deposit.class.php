@@ -59,4 +59,3 @@ class pay_deposit  {
 		return $info;
 	}
 }
-?>

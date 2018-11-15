@@ -107,4 +107,3 @@ class keylink extends admin {
 		return true;
  	}
 }
-?>

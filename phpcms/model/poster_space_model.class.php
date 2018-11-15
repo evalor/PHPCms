@@ -9,4 +9,3 @@ class poster_space_model extends model {
 		parent::__construct();
 	}
 }
-?>

@@ -44,4 +44,3 @@ $LANG['data_return']								=	'Return value';
 $LANG['cache_times']								=	'Cache time';
 $LANG['click_copy_code']							=	'Double-click CODE box to copy code to clipboard';
 $LANG['return_value']								=	'Please input return value(The default value is data)';
-?>

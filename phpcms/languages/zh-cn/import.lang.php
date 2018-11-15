@@ -107,4 +107,3 @@ $LANG['no_data_needimport'] 			=	'没有新数据需要导入，请返回！';
 $LANG['no_keyid'] 						=	'没有指定关键字段，请返回！'; 
 $LANG['no_default_groupid'] 			=	'没有指定默认会员组'; 
 $LANG['no_default_catid'] 				=	'没有默认栏目配置'; 
-?>

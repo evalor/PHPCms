@@ -11,4 +11,3 @@ class message_data_model extends model {
 		parent::__construct();
 	}
 }
-?>

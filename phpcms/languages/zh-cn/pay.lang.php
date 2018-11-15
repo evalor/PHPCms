@@ -193,4 +193,3 @@ $LANG['total_transactions'] = '总交易数';
 $LANG['transactions_success'] = '成功交易';
 $LANG['pay_tip'] = '我们目前支持的汇款方式，请根据您选择的支付方式来选择银行汇款。汇款以后，请立即通知我们。';
 $LANG['configure'] = '配置';
-?>

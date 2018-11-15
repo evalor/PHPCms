@@ -245,4 +245,3 @@ class member_modelfield extends admin {
 	}
 	
 }
-?>

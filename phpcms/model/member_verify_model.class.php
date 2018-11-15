@@ -9,4 +9,3 @@ class member_verify_model extends model {
 		parent::__construct();
 	}
 }
-?>

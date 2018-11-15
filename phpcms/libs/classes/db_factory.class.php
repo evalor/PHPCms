@@ -101,4 +101,3 @@ final class db_factory {
 		$this->close();
 	}
 }
-?>

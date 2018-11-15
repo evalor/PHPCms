@@ -59,4 +59,3 @@ class googlesitemap_model extends model {
     }
 	
 }
-?>

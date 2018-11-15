@@ -114,4 +114,3 @@ function get_pic_content($pics) {
 	ob_clean();
 	return $data;
 }
-?>

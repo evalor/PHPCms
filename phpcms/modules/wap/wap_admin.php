@@ -203,4 +203,3 @@ class wap_admin extends admin {
 	}
 	
 }
-?>

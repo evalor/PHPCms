@@ -116,4 +116,3 @@ return array (
     'option' => 0,
   ),
 );
-?>

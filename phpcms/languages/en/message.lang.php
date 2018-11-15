@@ -38,4 +38,3 @@ $LANG['query_type']					=	'Search type';
 $LANG['to']							=	'To';
 $LANG['message_not_exist']			=	'The message does not exist.';
 $LANG['mass_failure']				=	'Group SMS sending failed, please check';
-?>

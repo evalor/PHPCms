@@ -10,4 +10,3 @@ class special_content_model extends model {
 		parent::__construct();
 	}
 }
-?>

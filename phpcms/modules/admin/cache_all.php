@@ -68,4 +68,3 @@ class cache_all extends admin {
 		}
 	}
 }
-?>

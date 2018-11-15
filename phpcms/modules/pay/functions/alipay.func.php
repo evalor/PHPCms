@@ -145,4 +145,3 @@ function query_timestamp($partner) {
 	$encrypt_key = "";
     return $encrypt_key;
 }
-?>

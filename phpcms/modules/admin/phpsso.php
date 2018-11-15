@@ -17,4 +17,3 @@ class phpsso extends admin {
 		include $this->admin_tpl('phpsso');
 	}
 }
-?>

@@ -26,4 +26,3 @@ class push_api {
 		return $this->special_api->_get_type($specialid);
 	}
 }
-?>

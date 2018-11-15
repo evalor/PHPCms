@@ -137,4 +137,3 @@ class manage extends admin {
 		 exit('0');
 	}
 }
-?>

@@ -138,4 +138,3 @@ $LANG['import_all'] = 'Import all';
 $LANG['select_article'] = 'Please select article';
 $LANG['program_add_operation_success'] = 'Added successfully';
 $LANG['handler_functions'] = 'handler function';
-?>

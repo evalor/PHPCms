@@ -288,4 +288,4 @@ class index extends foreground {
 	 
 	
 }	
-?>	
+	

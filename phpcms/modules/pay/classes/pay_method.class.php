@@ -111,4 +111,3 @@ class pay_method  {
 		return $modules;
 	}		
 }
-?>

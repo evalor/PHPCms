@@ -97,4 +97,3 @@ class session_mysql {
 		return $this->db->delete("`lastvisit`<$expiretime");
     }
 }
-?>

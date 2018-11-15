@@ -46,4 +46,3 @@ $LANG['editing_data_sources_call'] = 'Edit data source';
 $LANG['valgrind'] = 'Your code';
 $LANG['data_call'] = 'Calling code';
 $LANG['copy_code'] = 'Your code has been copied to your clipboard';
-?>

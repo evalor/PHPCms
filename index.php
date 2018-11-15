@@ -14,4 +14,3 @@ include PHPCMS_PATH.'/phpcms/base.php';
 
 pc_base::creat_app();
 
-?>

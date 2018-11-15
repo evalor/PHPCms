@@ -57,4 +57,3 @@ $LANG['attachment_parameter_error'] = '参数传递错误';
 
 $LANG['attachment_tip1'] = '不能选择超过';
 $LANG['attachment_tip2'] = '个附件';
-?>

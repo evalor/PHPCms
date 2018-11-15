@@ -371,4 +371,3 @@ class link extends admin {
  
 	
 }
-?>

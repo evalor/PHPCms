@@ -300,4 +300,3 @@ class attachments {
 		return get_siteid();
 	}	
 }
-?>

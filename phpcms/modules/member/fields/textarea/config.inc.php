@@ -10,4 +10,3 @@ $field_allow_search		= 0; //作为搜索条件
 $field_allow_fulltext	= 1; //作为全站搜索信息
 $field_allow_isunique	= 0; //是否允许值唯一
 
-?>

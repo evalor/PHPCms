@@ -49,4 +49,4 @@ class content_form {
 		}
 		return $info;
 	}
-}?>
+}

@@ -58,4 +58,3 @@ class member_setting extends admin {
 	}
 
 }
-?>

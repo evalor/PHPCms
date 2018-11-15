@@ -56,4 +56,3 @@ $content = str_replace('*position4*',$position_4,$content);
 file_put_contents($tpl_file,$content);
 
 $language = array('video'=>'视频', 'video_manage'=>'视频库管理', 'video_upload'=>'视频上传','video_edit'=>'修改视频', 'video_delete'=>'删除视频', 'video_open'=>'申请开通', 'video_inputinfo'=>'视频配置', 'complete_info'=>'填写资料', 'subscribe_manage'=>'订阅管理', 'sub_delete'=>'删除订阅', 'import_ku6_video'=>'导入ku6视频', 'album_import'=>'视频专辑导入', 'video_store'=>'视频库', 'video_stat'=>'视频统计', 'player_manage'=>'播放器管理');
-?>

@@ -48,4 +48,3 @@ $LANG['wap_guestbook'] = '发表留言成功!页面正在返回……';
 $LANG['wap_goback'] = '返回正文页';
 $LANG['wap_close_status'] = '您访问的站点不存在或者未开启wap访问';
 $LANG['wap_hotword_desc'] = '如"phpcms|http://wap.phpcms.cn"多个热词以换行分割。';
-?>

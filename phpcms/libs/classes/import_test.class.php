@@ -32,4 +32,3 @@ class import_test {
 		 
 	}
 }
-?>

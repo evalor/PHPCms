@@ -138,4 +138,3 @@ $LANG['import_all'] = '全部导入';
 $LANG['select_article'] = '请选择文章';
 $LANG['program_add_operation_success'] = '添加发布方案成功!';
 $LANG['handler_functions'] = '处理函数';
-?>

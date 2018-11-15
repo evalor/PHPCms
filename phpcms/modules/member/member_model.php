@@ -266,4 +266,3 @@ class member_model extends admin {
 	}
 	
 }
-?>

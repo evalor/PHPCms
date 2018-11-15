@@ -97,4 +97,3 @@ class setting extends admin {
 		setcache('common', $setting,'commons');
 	}
 }
-?>

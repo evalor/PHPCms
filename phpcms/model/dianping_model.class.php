@@ -9,4 +9,3 @@ class dianping_model extends model {
 		parent::__construct();
 	}
 }
-?>

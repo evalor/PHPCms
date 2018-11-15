@@ -6,4 +6,3 @@ class hook {
 	 static function admin_content_init() {}
 	 static function admin_top_left_menu() {}
 }
-?>

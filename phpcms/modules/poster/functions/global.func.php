@@ -14,4 +14,3 @@ function get_types() {
 	}
 	return $TYPES;
 }
-?>

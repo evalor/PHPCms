@@ -385,4 +385,3 @@ class database extends admin {
 		return($ret);
 	}			
 }
-?>

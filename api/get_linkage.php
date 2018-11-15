@@ -152,4 +152,3 @@ function JSON($array) {
 	$json = json_encode($array);
 	return urldecode($json);
 }
-?>

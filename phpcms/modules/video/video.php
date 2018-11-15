@@ -807,4 +807,3 @@ class video extends admin {
 	
 }
 
-?>

@@ -44,4 +44,3 @@ $LANG['select_style']					=	'Please choose a style';
 $LANG['available_style']				=	'Available style';
 $LANG['lists']							=	'List';
 $LANG['sitename']						=	'Site';
-?>

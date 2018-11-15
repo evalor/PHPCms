@@ -10,4 +10,3 @@ class pay_account_model extends model {
 		parent::__construct();
 	}
 }
-?>

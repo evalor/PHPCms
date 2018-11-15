@@ -249,4 +249,3 @@ final class template_cache {
 		return false;
 	}
 }
-?>

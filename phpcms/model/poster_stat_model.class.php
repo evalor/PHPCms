@@ -67,4 +67,3 @@ class poster_stat_model extends model {
 		return $selectstr;
 	}
 }
-?>

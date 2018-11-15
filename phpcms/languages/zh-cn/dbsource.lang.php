@@ -46,4 +46,3 @@ $LANG['editing_data_sources_call'] = '编辑数据源调用';
 $LANG['valgrind'] = '你的代码';
 $LANG['data_call'] = '调用代码';
 $LANG['copy_code'] = '复制成功！';
-?>

@@ -461,4 +461,3 @@ final class db_mysqli {
 		return $value;
 	}
 }
-?>

@@ -30,4 +30,3 @@ class format {
 		return $weekarray[date("w",$timestamp)]; 
 	}
 }
-?>

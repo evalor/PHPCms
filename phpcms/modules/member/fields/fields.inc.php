@@ -11,4 +11,3 @@ $fields = array('text'=>'单行文本',
 				'omnipotent'=>'万能字段',
 				'checkmobile'=>'短信验证',
  				);
-?>

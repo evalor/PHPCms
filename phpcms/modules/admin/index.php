@@ -338,4 +338,3 @@ class index extends admin {
 	}
 
 }
-?>

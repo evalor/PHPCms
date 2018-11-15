@@ -7,4 +7,3 @@ $introduce = '在线升级';
 $author = 'phpcms Team';
 $authorsite = 'http://www.phpcms.cn';
 $authoremail = 'admin@phpcms.cn';
-?>

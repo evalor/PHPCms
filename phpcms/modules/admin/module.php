@@ -64,4 +64,3 @@ class module extends admin {
 		//showmessage(L('update_cache').L('success'), '', '', 'install');
 	}
 }
-?>

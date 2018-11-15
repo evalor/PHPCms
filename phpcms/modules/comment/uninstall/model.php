@@ -7,4 +7,3 @@ $tablelist = $comment_table_db->select('', 'tableid');
 		$comment_table_db->query("DROP TABLE IF EXISTS `".$comment_table_db->db_tablepre."comment_data_".$v['tableid']."`;");
 	}
 return array('comment', 'comment_check', 'comment_setting', 'comment_table');
-?>

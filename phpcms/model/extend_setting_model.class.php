@@ -9,4 +9,3 @@ class extend_setting_model extends model {
 		parent::__construct();
 	}
 }
-?>

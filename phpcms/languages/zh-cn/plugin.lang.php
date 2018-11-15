@@ -72,4 +72,3 @@ $LANG['uninstall_plugin'] = '卸载应用';
 $LANG['plugin_lack_of_necessary_configuration_items'] = '应用安装文件缺少配置所需的必填项目，请检查';
 $LANG['plugin_uninstall_success_no_delete'] = '文件卸载成功，但由于权限问题目录无法删除，请手动删除。';
 $LANG['plugin_debug_tips'] = '您目前的开发模式为调试模式，关闭调试模式请设置configs\system.php中plugin_debug为0,<a href="http://help.open.phpcms.cn/2011/developer_0530/330.html" target="_blank">详细>></a>';
-?>

@@ -291,4 +291,3 @@ class tag extends admin {
 		}
 	}
 }
-?>

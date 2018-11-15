@@ -161,4 +161,3 @@ $LANG['all_list']						=	'List all';
 $LANG['only_one']						=	'List one based on ordering';
 $LANG['is_used_type']					=	'Available ads type';
 $LANG['max_add_param']					=	'Max number of added pictures';
-?>

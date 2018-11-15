@@ -37,4 +37,3 @@ class queue_model extends model {
 	}
 	
 }
-?>

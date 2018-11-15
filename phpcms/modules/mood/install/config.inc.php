@@ -7,4 +7,3 @@ $introduce = '新闻心情模块';
 $author = 'phpcms team';
 $authorsite = 'http://www.phpcms.cn';
 $authoremail = '';
-?>

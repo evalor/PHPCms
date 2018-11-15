@@ -74,4 +74,3 @@ class log extends admin {
 	} 
 	
 }
-?>

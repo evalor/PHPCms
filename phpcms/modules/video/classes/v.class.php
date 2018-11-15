@@ -70,4 +70,3 @@ class v {
 		return true;
 	}
 }
-?>

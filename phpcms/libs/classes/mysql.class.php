@@ -455,4 +455,3 @@ final class mysql {
 		return $value;
 	}
 }
-?>

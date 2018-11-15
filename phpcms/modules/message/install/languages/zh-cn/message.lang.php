@@ -38,4 +38,3 @@ $LANG['query_type']					=	'查询类型';
 $LANG['to']							=	'至';
 $LANG['message_not_exist']			=	'短消息不存在';
 $LANG['mass_failure']				=	'群发失败,请检查！';
-?>

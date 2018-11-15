@@ -408,4 +408,3 @@ class attachment {
 		return string2array($siteinfo[$siteid]['setting']);
 	}
 }
-?>

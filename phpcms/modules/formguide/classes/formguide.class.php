@@ -37,4 +37,3 @@ class formguide {
 		return true;
 	}
 }
-?>

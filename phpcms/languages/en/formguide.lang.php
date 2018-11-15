@@ -151,4 +151,3 @@ $LANG['form_expired']				=	'Form has Expired. Thank you for your interest!';
 $LANG['tips']						=	'Reminder for form submission';
 $LANG['thanks']						=	'Thank you for your participation';
 $LANG['had_participate']			=	'You have already participated.';
-?>

@@ -164,4 +164,3 @@ class Chinabank extends paymentabstract{
 		return $para;
 	}
 }
-?>

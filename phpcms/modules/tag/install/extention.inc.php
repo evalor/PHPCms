@@ -9,4 +9,3 @@ $menu_db->insert(array('name'=>'delete_tag', 'parentid'=>$parentid, 'm'=>'tag', 
 $menu_db->insert(array('name'=>'tag_lists', 'parentid'=>$parentid, 'm'=>'tag', 'c'=>'tag', 'a'=>'lists', 'data'=>'', 'listorder'=>0, 'display'=>'0'));
 
 $language = array('tag'=>'标签向导', 'add_tag'=>'添加标签向导', 'edit_tag'=>'修改标签向导', 'delete_tag'=>'删除标签向导', 'tag_lists'=>'标签向导列表');
-?>

@@ -36,4 +36,3 @@ function get_video_field($catid = 0) {
 	$r = $model_field->get_one(array('modelid'=>$modelid, 'formtype'=>'video'));
 	return $r['field'] ? $r['field'] : '';
 }
-?>

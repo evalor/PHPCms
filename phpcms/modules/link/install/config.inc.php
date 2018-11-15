@@ -7,4 +7,3 @@ $introduce = '友情链接模块';
 $author = 'phpcms Team';
 $authorsite = 'http://www.phpcms.cn';
 $authoremail = '';
-?>

@@ -210,4 +210,3 @@ function player_code($id = 'video_player',$channelid,$vid,$width = 622, $height 
 	$string = '<embed id="'.$id.'" name="'.$id.'" src="'.$playerurl.'" width="'.$width.'" height="'.$height.'" quality="high" align="middle" allowScriptAccess="always" allowfullscreen="true" type="application/x-shockwave-flash"></embed>';
 	return $string;
 }
-?>

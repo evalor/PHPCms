@@ -32,4 +32,3 @@ class admin_op {
 		return true;
 	}	
 }
-?>

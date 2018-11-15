@@ -1784,4 +1784,3 @@ class index extends foreground {
 		echo '1';
 	}
 }
-?>

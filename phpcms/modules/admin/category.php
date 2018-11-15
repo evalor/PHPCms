@@ -919,4 +919,3 @@ class category extends admin {
  		}
 	}
 }
-?>

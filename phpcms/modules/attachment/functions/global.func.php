@@ -139,4 +139,3 @@
 		return in_array($ext,$ext_arr) ? $ext_arr :false;
 	}
 
-?>

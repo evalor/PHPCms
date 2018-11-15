@@ -151,4 +151,3 @@ $LANG['form_expired']				=	'表单已过期，感谢您的关注！';
 $LANG['tips']						=	'用户提交表单数据提醒';
 $LANG['thanks']						=	'感谢您的参与！';
 $LANG['had_participate']			=	'您已经参与过了！';
-?>

@@ -50,4 +50,3 @@ return array(
 	'推荐-其他'=>'T-190000',
 	'member_add_dir'=>'http://juhe.phpcms.cn/api/',
 );
-?>

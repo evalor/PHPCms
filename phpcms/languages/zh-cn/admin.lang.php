@@ -747,4 +747,3 @@ $LANG['no_priview'] = '无演示图';
 $LANG['panel_switch'] = '面板切换';
 $LANG['full_menu'] = '全功能';
 $LANG['show_in_model'] = '在此模式中显示';
-?>

@@ -158,4 +158,3 @@ function getargs() {
 	parse_str($string,$g);
 	return $g;
 }
-?>

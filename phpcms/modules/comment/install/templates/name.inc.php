@@ -5,4 +5,3 @@ return array (
       'show_list.html' => '内容页评论列表',
       'list.html' => '评论列表',
     );
-?>

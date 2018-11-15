@@ -122,4 +122,3 @@ $LANG['submit']							= 	'提交';
 $LANG['select_style']					= 	'选择风格';
 $LANG['right_all']						= 	'选择正确';
  
-?>

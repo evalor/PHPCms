@@ -108,4 +108,3 @@ class plugin_base {
 		include template('plugin','iframe');
 	}
 }
-?>

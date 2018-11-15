@@ -111,4 +111,3 @@ class search_admin extends admin {
 	}
 	
 }
-?>

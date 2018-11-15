@@ -176,4 +176,3 @@ class Sndapay extends paymentabstract{
 		return $para;
 	}
 }
-?>

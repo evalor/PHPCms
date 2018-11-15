@@ -106,4 +106,3 @@ class copyfrom extends admin {
 		return true;
  	}
 }
-?>

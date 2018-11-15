@@ -5,4 +5,3 @@ $parentid = $menu_db->insert(array('name'=>'upgrade', 'parentid'=>977, 'm'=>'upg
 $menu_db->insert(array('name'=>'checkfile', 'parentid'=>$parentid, 'm'=>'upgrade', 'c'=>'index', 'a'=>'checkfile', 'data'=>'', 'listorder'=>0, 'display'=>'1'));
 
 $language = array('upgrade'=>'在线升级', 'checkfile'=>'文件校验');
-?>

@@ -311,4 +311,3 @@ class payment extends admin {
 		}		
 	}	
 }
-?>

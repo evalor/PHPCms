@@ -251,4 +251,3 @@ class position extends admin {
 		include $this->admin_tpl('position_priview');	
 	}
 }
-?>

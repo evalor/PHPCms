@@ -9,4 +9,3 @@ class maillist_model extends model {
 		parent::__construct();
 	}
 }
-?>

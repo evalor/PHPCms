@@ -245,4 +245,3 @@ function hotword() {
 	}
 	return $hotword_string;
 }
-?>

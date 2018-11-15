@@ -499,4 +499,3 @@ class special extends admin {
 		return $data;
 	}
 }
-?>

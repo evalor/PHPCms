@@ -67,4 +67,3 @@ setcache('mood_program', array('1'=>array(
     'pic' => '',
   ),
 )), 'commons');
-?>

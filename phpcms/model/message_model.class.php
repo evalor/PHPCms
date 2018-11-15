@@ -65,4 +65,3 @@ class message_model extends model {
 	}
 	
 }
-?>

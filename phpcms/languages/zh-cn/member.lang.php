@@ -418,4 +418,3 @@ $LANG['use_username_get_password'] = '通过用户名找回密码';
 
 $LANG['select_find_password_type'] = '请选择密码找回方式';
 
-?>

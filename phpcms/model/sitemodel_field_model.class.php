@@ -33,4 +33,3 @@ class sitemodel_field_model extends model {
 		return true;
 	}
 }
-?>

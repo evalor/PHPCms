@@ -56,4 +56,3 @@ class tag {
 		include template('content','tag_list');
 	}
 }
-?>

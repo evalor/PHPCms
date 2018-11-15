@@ -19,4 +19,3 @@ class comment_data_model extends model {
 		return $this->table_name;
 	}
 }
-?>

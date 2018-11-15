@@ -143,4 +143,3 @@ class member_menu extends admin {
 		}
 	}
 }
-?>

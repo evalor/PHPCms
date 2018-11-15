@@ -580,4 +580,3 @@ class node extends admin {
 		showmessage($str, $url);
 	}
 }
-?>

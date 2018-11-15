@@ -45,4 +45,3 @@ if(!$is_exists) {
 }
 exit(trim_script($_GET['callback']).'('.json_encode(array('status'=>1)).')');
 
-?>

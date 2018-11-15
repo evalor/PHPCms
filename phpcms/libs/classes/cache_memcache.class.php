@@ -29,4 +29,3 @@ class cache_memcache {
 		return $this->memcache->flush();
 	}
 }
-?>

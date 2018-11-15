@@ -14,4 +14,3 @@ class page_model extends model {
 		$this->html->category($catid,1);
 	}
 }
-?>

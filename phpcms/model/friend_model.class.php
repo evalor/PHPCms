@@ -11,4 +11,3 @@ class friend_model extends model {
 	}
 
 }
-?>

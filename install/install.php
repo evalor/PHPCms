@@ -551,4 +551,3 @@ function delete_install($dir) {
 	}
     return @rmdir($dir);
 }
-?>

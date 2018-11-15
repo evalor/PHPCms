@@ -10,4 +10,3 @@ $menu_db->insert(array('name'=>'overdue', 'parentid'=>$parentid, 'm'=>'announce'
 $menu_db->insert(array('name'=>'del_announce', 'parentid'=>$parentid, 'm'=>'announce', 'c'=>'admin_announce', 'a'=>'delete', 'data'=>'', 'listorder'=>0, 'display'=>'0'));
 
 $language = array('announce'=>'公告', 'announce_add'=>'添加公告', 'edit_announce'=>'编辑公告', 'check_announce'=>'审核公告', 'overdue'=>'过期公告', 'del_announce'=>'删除公告');
-?>

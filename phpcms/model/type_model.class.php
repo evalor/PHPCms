@@ -18,4 +18,3 @@ class type_model extends model {
 		return $this->select(array('module'=> ROUTE_M,'siteid'=>$siteid),'*','',$order = 'typeid ASC');
 	}
 }
-?>

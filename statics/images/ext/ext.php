@@ -38,4 +38,3 @@ $filetype['hlp'] = "帮助文件";
 $filetype['exe'] = "应用程序";
 $filetype['txt'] = "文本文档";
 $filetype['other'] = "未知";
-?>

@@ -9,4 +9,3 @@ class attachment_index_model extends model {
 		parent::__construct();
 	}
 }
-?>

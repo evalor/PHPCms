@@ -11,4 +11,3 @@ for($y=$diff;$y>0;$y--) {
 	if($value<'201006' || !$this->db->table_exists($this->db_tablepre.'poster_'.$value)) break;
 	$poster_stat->query("DROP TABLE IF EXISTS `".$this->db_tablepre."poster_".$value."`");
 }
-?>

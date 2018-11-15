@@ -36,4 +36,4 @@ class member_form {
 		}
 		return $info;
 	}
-}?>
+}

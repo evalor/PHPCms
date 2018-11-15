@@ -60,4 +60,3 @@ class template_bak extends admin {
 		}
 	}
 }
-?>

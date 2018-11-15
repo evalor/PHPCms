@@ -728,4 +728,3 @@ $LANG['not_display_in_menu'] = 'Breadcrumb does not display';
 
 $LANG['apply_to_child'] = 'Apply to sub column';
 
-?>

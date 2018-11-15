@@ -38,4 +38,3 @@ class member_model_model extends model {
 		$this->db->update(array('modelid'=>$to_modelid), $tablename, "modelid='$from_modelid'");
 	}
 }
-?>

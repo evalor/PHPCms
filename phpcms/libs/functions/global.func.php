@@ -1794,4 +1794,3 @@ function get_vid($contentid = 0, $catid = 0, $isspecial = 0) {
 	}
 
  } 
-?>

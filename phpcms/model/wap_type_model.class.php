@@ -11,4 +11,3 @@ class wap_type_model extends model {
 		parent::__construct();
 	}
 }
-?>

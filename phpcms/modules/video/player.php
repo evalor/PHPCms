@@ -69,4 +69,3 @@ class player extends admin {
 	}
 }
 
-?>

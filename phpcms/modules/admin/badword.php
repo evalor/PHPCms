@@ -187,4 +187,3 @@ class badword extends admin {
  	}
 	
 }
-?>

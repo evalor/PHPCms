@@ -9,4 +9,3 @@ class ps_members_model extends model {
 		parent::__construct();
 	}
 }
-?>

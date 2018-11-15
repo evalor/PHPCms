@@ -57,4 +57,3 @@ $LANG['attachment_parameter_error'] = 'Parameter passing error';
 
 $LANG['attachment_tip1'] = 'No more than';
 $LANG['attachment_tip2'] = 'attachments';
-?>

@@ -729,4 +729,3 @@ class content extends foreground {
 		}
 	}
 }
-?>

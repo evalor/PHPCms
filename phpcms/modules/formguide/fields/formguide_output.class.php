@@ -21,4 +21,4 @@ class formguide_output {
 		}
 		return $info;
 	}
-}?>
+}

@@ -23,4 +23,3 @@ class googlesitemap_item_model extends model {
      }
 	
 }
-?>

@@ -11,4 +11,3 @@ class plugin_var_model extends model {
 		parent::__construct();
 	}
 }
-?>

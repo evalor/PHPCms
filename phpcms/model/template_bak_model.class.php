@@ -9,4 +9,3 @@ class template_bak_model extends model {
 		parent::__construct();
 	}
 }
-?>

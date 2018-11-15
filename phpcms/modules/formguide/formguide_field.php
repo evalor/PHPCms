@@ -326,4 +326,3 @@ class formguide_field extends admin {
 		return true;
 	}
 }
-?>

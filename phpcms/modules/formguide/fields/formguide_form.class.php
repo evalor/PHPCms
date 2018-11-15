@@ -35,4 +35,4 @@ class formguide_form {
 		}
 		return $info;
 	}
-}?>
+}

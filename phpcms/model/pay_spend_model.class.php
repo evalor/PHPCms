@@ -10,4 +10,3 @@ class pay_spend_model extends model {
 		parent::__construct();
 	}
 }
-?>

@@ -36,4 +36,3 @@ $LANG['edit_cat'] = '编辑分类';
 $LANG['searh_notice'] = '注意：全文检索模块需要mysql开启全文索引功能，<br />开启方法：修改mysql配置文件：window服务器为my.ini，linux服务器为my.cnf，在 [mysqld] 后面加入一行“ft_min_word_len=1”，然后重启Mysql。
 
 ';
-?>

@@ -12,4 +12,3 @@ class collection_node_model extends model {
 	}
 
 }
-?>

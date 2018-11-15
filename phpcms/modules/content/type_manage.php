@@ -225,4 +225,3 @@ class type_manage extends admin {
 		return true;
 	}
 }
-?>

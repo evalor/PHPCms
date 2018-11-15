@@ -30,4 +30,3 @@ class get_model extends model {
 		return $this->db->fetch_next();
 	}
 }
-?>

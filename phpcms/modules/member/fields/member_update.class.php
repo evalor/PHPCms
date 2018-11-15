@@ -10,4 +10,4 @@ class member_update {
 		$this->modelid = $modelid;
 		$this->fields = getcache('model_field_'.$modelid,'model');
     }
-}?>
+}

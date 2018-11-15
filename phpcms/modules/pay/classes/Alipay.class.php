@@ -201,4 +201,3 @@ class Alipay extends paymentabstract{
 		return $para;
 	}
 }
-?>

@@ -154,4 +154,3 @@ function dir_delete($dir) {
     return @rmdir($dir);
 }
 
-?>

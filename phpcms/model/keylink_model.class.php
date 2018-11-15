@@ -11,4 +11,3 @@ class keylink_model extends model {
 	}
 
 }
-?>

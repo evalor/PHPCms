@@ -161,4 +161,3 @@ class member_group extends admin {
 	}
 
 }
-?>

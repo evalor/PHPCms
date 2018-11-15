@@ -32,4 +32,3 @@ $content = safe_replace($send_txt);
 $sent_time = intval($_POST['sendtype']) == 2 && !empty($_POST['sendtime'])  ? trim($_POST['sendtime']) : date('Y-m-d H:i:s',SYS_TIME);
 $smsapi->send_sms($mobile, $content, $sent_time, CHARSET,$id_code); //发送短信
 exit(1);
-?>

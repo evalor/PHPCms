@@ -24,4 +24,3 @@ class vote_data_model extends model {
 
 
 }
-?>

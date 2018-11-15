@@ -5,4 +5,3 @@ return array(
 	'api' => 'http://juhe.phpcms.cn/api/',
 	'player_url' => 'http://player.juhe.phpcms.cn/player.php/vid/', 
 );
-?>

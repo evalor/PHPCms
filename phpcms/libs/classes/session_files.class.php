@@ -8,4 +8,3 @@ class session_files {
 		session_start();
     }
 }
-?>

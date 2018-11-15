@@ -54,4 +54,3 @@ class announce_tag {
 		);
 	}
 }
-?>

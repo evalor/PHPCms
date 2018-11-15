@@ -11,4 +11,3 @@ class favorite_model extends model {
 	}
 
 }
-?>

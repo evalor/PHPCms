@@ -80,4 +80,3 @@ class formguide_info extends admin {
 		}
 	}
 }
-?>

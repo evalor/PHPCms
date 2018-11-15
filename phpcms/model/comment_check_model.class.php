@@ -11,4 +11,3 @@ class comment_check_model extends model {
 		parent::__construct();
 	}
 }
-?>

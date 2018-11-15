@@ -41,4 +41,3 @@ if (!preg_match('/([^a-z_]+)/i',$action) && file_exists(PHPCMS_PATH.'api/video_a
 } else {
 	exit('Video action does not exist');
 }
-?>
