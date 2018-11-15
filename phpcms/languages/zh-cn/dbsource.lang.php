@@ -1,4 +1,4 @@
-<?php 
+<?php
 $LANG['added_external_data_source'] = '添加外部数据源';
 $LANG['configure_the_external_data_source'] = '外部数据源配置';
 $LANG['dbsource_name'] = '数据源名';

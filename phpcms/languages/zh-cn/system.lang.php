@@ -6,7 +6,7 @@ translation save at the array:$LANG
 */
 
 $LANG['no_language'] = '缺少语言包';
-$LANG['website_manage'] = 'phpcms V9 - 后台管理中心';
+$LANG['website_manage'] = '后台管理中心';
 $LANG['lockscreen'] = '锁屏';
 $LANG['submit'] = '提 交';
 $LANG['yes'] = '是';
@@ -74,7 +74,7 @@ $LANG['type'] = '类型';
 $LANG['search'] = '搜索';
 $LANG['username'] = '用户名';
 $LANG['user_already_exist'] = '用户已存在。';
-$LANG['poster']	= '广告';
+$LANG['poster'] = '广告';
 $LANG['announce'] = '公告';
 $LANG['template_select'] = '模板选择';
 $LANG['input'] = '请输入';
@@ -90,7 +90,7 @@ $LANG['ctrl_more_selected'] = '按住Ctrl可多选';
 $LANG['file_does_not_writable'] = '文件不可写';
 $LANG['file_does_not_exists'] = '文件不存在';
 $LANG['file_exists'] = '文件已存在';
-$LANG['copyright'] = 'CopyRight 2006-2017 酷溜网（北京）科技有限公司  <a href="http://www.phpcms.cn" target="_blank">PHPCMS TEAM</a> ';
+$LANG['copyright'] = 'CopyRight 2006-2017 Swooer <a href="http://www.swooer.cn" target="_blank">SOER TEAM</a> ';
 $LANG['input_right'] = '输入正确';
 $LANG['update_success'] = '数据更新成功！';
 $LANG['select_all'] = '全选';

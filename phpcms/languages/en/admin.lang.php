@@ -7,9 +7,9 @@ translation save at the array:$LANG
 */
 
 //index
-$LANG['admin_site_title'] = 'phpcmsV9 - Content Management System';
+$LANG['admin_site_title'] = 'Content Management System';
 $LANG['expand_or_contract'] = 'Show or Hide';
-$LANG['phpcms_title'] = 'PHPCMS V9 Content Management System';
+$LANG['phpcms_title'] = 'Content Management System';
 $LANG['official_site'] = 'Official site';
 $LANG['authorization'] = 'Authorization';
 $LANG['igenus_for_postfix'] = 'Support Forum';
@@ -331,19 +331,19 @@ $LANG['linkage_tips'] = 'Note: please go to [Linkage menu -> Update cache] after
 
 ////IP禁止
 $LANG['deblocking_time'] = 'Unlocked time';
-$LANG['time_isok']						=	'Valid date';
-$LANG['time_ismust']					=	'date is required';
-$LANG['ip_exit']						=	'IP exists';
-$LANG['connecting']						=	'Connecting, please wait';
-$LANG['ip_type_error']					=	'Format is invalid';
+$LANG['time_isok'] = 'Valid date';
+$LANG['time_ismust'] = 'date is required';
+$LANG['ip_exit'] = 'IP exists';
+$LANG['connecting'] = 'Connecting, please wait';
+$LANG['ip_type_error'] = 'Format is invalid';
 
 //// keyword.php
 $LANG['keyword_name'] = 'keywords';
-$LANG['keyword_listorder'] = 'Priority'; 
-$LANG['quote_num'] = 'Times cited'; 
-$LANG['last_quote'] = 'Last cited'; 
-$LANG['click_num'] = 'Clicks'; 
-$LANG['last_vistor'] = 'Last visit'; 
+$LANG['keyword_listorder'] = 'Priority';
+$LANG['quote_num'] = 'Times cited';
+$LANG['last_quote'] = 'Last cited';
+$LANG['click_num'] = 'Clicks';
+$LANG['last_vistor'] = 'Last visit';
 ////敏感词
 $LANG['badword_name'] = 'Word censorship';
 $LANG['badword_replacename'] = 'Replacement';
@@ -354,42 +354,42 @@ $LANG['badword_edit'] = 'Edit restricted word';
 $LANG['badword_confirm_del'] = 'Delete this word';
 
 
-$LANG['badword_common'] 		= 'Normal';
-$LANG['badword_dangerous']		= 'Dangerous';
-$LANG['badword_level_info']		= '(Normal: replace with other words, Dangerous: remove completely)';
-$LANG['badword_notreplace']		= 'No replacement?';
-$LANG['badword_noreplace']		= 'Replacement (optional)';
-$LANG['badword_pleasechose']	= 'Please select';
-$LANG['badword_confom_del']		= 'Are you sure you want to delete all selected items';
+$LANG['badword_common'] = 'Normal';
+$LANG['badword_dangerous'] = 'Dangerous';
+$LANG['badword_level_info'] = '(Normal: replace with other words, Dangerous: remove completely)';
+$LANG['badword_notreplace'] = 'No replacement?';
+$LANG['badword_noreplace'] = 'Replacement (optional)';
+$LANG['badword_pleasechose'] = 'Please select';
+$LANG['badword_confom_del'] = 'Are you sure you want to delete all selected items';
 
-$LANG['badword_require']		= 'Require';
-$LANG['badword_import_infos']	= '1. One word item per line<br>
+$LANG['badword_require'] = 'Require';
+$LANG['badword_import_infos'] = '1. One word item per line<br>
 2. Please use a comma to seperate parameters<br>
 3. Word censorship rank (1 for normal, 2 for Dangerous)<br>';
 
 //新闻协议
-$LANG['google_info']			= 'About Sitemaps/ Internet news open protocol';
-$LANG['google_rate']			= 'Update frequency';
-$LANG['google_nums']			= 'Num of generations';
-$LANG['google_sitemaps']		= 'Generate Sitemaps';
-$LANG['google_baidunews']		= 'Generate Internet news open protocol';
-$LANG['google_period']			= 'Update cycle ';
-$LANG['google_startmake']		= 'Start generating';
-$LANG['google_ismake']			= 'Generate XML file';
-$LANG['google_select_db']		= 'Select data source';
+$LANG['google_info'] = 'About Sitemaps/ Internet news open protocol';
+$LANG['google_rate'] = 'Update frequency';
+$LANG['google_nums'] = 'Num of generations';
+$LANG['google_sitemaps'] = 'Generate Sitemaps';
+$LANG['google_baidunews'] = 'Generate Internet news open protocol';
+$LANG['google_period'] = 'Update cycle ';
+$LANG['google_startmake'] = 'Start generating';
+$LANG['google_ismake'] = 'Generate XML file';
+$LANG['google_select_db'] = 'Select data source';
 
-$LANG['google_update']			= 'Keep update';
-$LANG['google_noupdate']		= 'Never';
+$LANG['google_update'] = 'Keep update';
+$LANG['google_noupdate'] = 'Never';
 
-$LANG['google_hour']			= 'Hour';
-$LANG['google_day']				= 'Day';
-$LANG['google_week']			= 'Week';
-$LANG['google_month']			= 'Month';
-$LANG['google_year']			= 'Year';
+$LANG['google_hour'] = 'Hour';
+$LANG['google_day'] = 'Day';
+$LANG['google_week'] = 'Week';
+$LANG['google_month'] = 'Month';
+$LANG['google_year'] = 'Year';
 
 
-$LANG['explain']				= 'Description';
-$LANG['google_infos']			= '<b>Sitemaps</b><br>
+$LANG['explain'] = 'Description';
+$LANG['google_infos'] = '<b>Sitemaps</b><br>
 
 Sitemaps are an easy way for webmasters to inform search engines about pages on their sites that are available for crawling. In its simplest form, a Sitemap is an XML file that lists URLs for a site along with additional metadata about each URL (when it was last updated, how often it usually changes, and how important it is, relative to other URLs in the site) so that search engines can more intelligently crawl the site.
 
@@ -440,9 +440,9 @@ $LANG['input_catname'] = 'Please input column name';
 $LANG['input_dirname'] = 'Please input directory';
 $LANG['enter_the_correct_catname'] = 'ONLY contain letters, digits, underscores or hyphens';
 $LANG['catname_have_exists'] = 'Directory has already exist.';
-$LANG['follow_catname_have_exists'] =  '<br>The following columns have already exist. Failed to add ';
-$LANG['domain_name_format'] = 'Domain name is optional. Format is http://www.phpcms.cn/';
-$LANG['domain_end_string'] = 'Format should be as follows, http://www.phpcms.cn/, ends up with ‘/’';
+$LANG['follow_catname_have_exists'] = '<br>The following columns have already exist. Failed to add ';
+$LANG['domain_name_format'] = 'Domain name is optional. Format is http://www.swooer.cn/';
+$LANG['domain_end_string'] = 'Format should be as follows, http://www.swooer.cn/, ends up with ‘/’';
 $LANG['template_setting'] = 'Please go to Template Settings to change template';
 $LANG['catgory_basic'] = 'Basic options';
 $LANG['catgory_createhtml'] = 'Generate HTML settings';
@@ -500,10 +500,10 @@ $LANG['system'] = 'System';
 $LANG['must_input'] = ' is Required';
 $LANG['contribute'] = 'Contribute';
 $LANG['badword_export'] = 'Export restricted words';
-$LANG['badword_import'] = 'Bulk import'; 
+$LANG['badword_import'] = 'Bulk import';
 //site manage
 $LANG['site_management'] = 'Site manager';
-$LANG['add_site'] = 'Add site'; 
+$LANG['add_site'] = 'Add site';
 $LANG['basic_configuration'] = 'Basic settings';
 $LANG['site_dirname'] = 'Directory';
 $LANG['site_name'] = 'Site name';
@@ -515,8 +515,8 @@ $LANG['release_point_configuration'] = 'Publishing points settings';
 $LANG['template_style_configuration'] = 'Template settings';
 $LANG['style_name'] = 'Styple name';
 $LANG['site_dirname_err_msg'] = 'ONLY contain letters, digits or underscores';
-$LANG['site_domain_ex'] = 'Please fill in the domain name. For example, http://www.phpcms.cn/';
-$LANG['site_domain_ex2'] = 'Format should be as follows, http://www.phpcms.cn/, ends up with ‘/’';
+$LANG['site_domain_ex'] = 'Please fill in the domain name. For example, http://www.swooer.cn/';
+$LANG['site_domain_ex2'] = 'Format should be as follows, http://www.swooer.cn/, ends up with ‘/’';
 $LANG['style_name_point'] = 'Please select style (at least 1)';
 $LANG['select_at_least_1'] = 'At least select 1 style';
 $LANG['please_select_a_style'] = 'Please select template style';
@@ -626,8 +626,8 @@ $LANG['keylink'] = 'Related link';
 $LANG['keylink_edit'] = 'Edit related link';
 $LANG['keylink_confirm_del'] = 'Remove related words';
 $LANG['update_formguide_model'] = 'Form wizard model';
-$LANG['update_vote_setting']	= 'Poll module settings';
-$LANG['update_link_setting']	=	'Link-to-us model settings';
+$LANG['update_vote_setting'] = 'Poll module settings';
+$LANG['update_link_setting'] = 'Link-to-us model settings';
 
 $LANG['linkage'] = 'Linkage';
 $LANG['module'] = 'Modules';
@@ -660,7 +660,7 @@ $LANG['default_style'] = 'Default style';
 
 $LANG['your_server_it_may_not_have_access_to'] = 'Could not able to access your server.';
 $LANG['_please_check_the_server_configuration'] = ', please check your server configuration';
-$LANG['phpcms_logon'] = 'PHPCMS login';
+$LANG['phpcms_logon'] = 'login';
 $LANG['please_input_your_password_the_picture_corresponding_location_6_digits'] = 'Please input 6 digits number corresponding to picture in smart electronic password card.';
 $LANG['ht_card'] = 'Smart electronic password card';
 $LANG['apply_for_a_password_card'] = 'Apply';

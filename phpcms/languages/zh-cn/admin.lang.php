@@ -6,9 +6,9 @@ translation save at the array:$LANG
 */
 
 //index
-$LANG['admin_site_title'] = 'PHPCMS - 后台管理中心';
+$LANG['admin_site_title'] = '后台管理中心';
 $LANG['expand_or_contract'] = '展开与收缩';
-$LANG['phpcms_title'] = 'PHPCMS内容管理系统';
+$LANG['phpcms_title'] = '内容管理系统';
 $LANG['official_site'] = '官方网站';
 $LANG['authorization'] = '授权';
 $LANG['igenus_for_postfix'] = '支持论坛';
@@ -42,7 +42,7 @@ $LANG['main_role'] = '所属角色：';
 $LANG['main_last_logintime'] = '上次登录时间：';
 $LANG['main_last_loginip'] = '上次登录IP：';
 $LANG['main_safety_tips'] = '安全提示';
-$LANG['main_safety_permissions'] = '※ 建议您将phpcms目录设置为755（linux）或只读（windows），<a href="http://www.phpip.com/html/2014/changjianwenti_0430/133.html" target="_blank">点击查看教程</a>';
+$LANG['main_safety_permissions'] = '※ 建议您将目录设置为755（linux）或只读（windows），<a href="http://www.phpip.com/html/2014/changjianwenti_0430/133.html" target="_blank">点击查看教程</a>';
 $LANG['main_safety_debug'] = '※ 强烈建议您网站上线后，建议关闭 DEBUG （前台SQL错误提示）';
 $LANG['main_safety_errlog'] = '※ 强烈建议您网站开启错误日志(errorlog) ';
 $LANG['main_safety_sql'] = '※ 强烈建议您关闭 execution_sql （执行SQL）';
@@ -50,14 +50,14 @@ $LANG['main_safety_log'] = '※ 您的错误日志记录超过警戒设置（{si
 $LANG['main_safety_tpledit'] = '※ 您的模版允许后台在线编辑，为避免安全问题，建议您设为不允许在线修改';
 $LANG['main_shortcut'] = '快捷方式';
 $LANG['main_sysinfo'] = '系统信息';
-$LANG['main_version'] = 'PHPCMS程序版本：';
+$LANG['main_version'] = '程序版本：';
 $LANG['main_latest_version'] = '查看最新版本';
 $LANG['main_os'] = '操作系统：';
 $LANG['main_web_server'] = '服务器软件：';
 $LANG['main_sql_version'] = 'MySQL 版本：';
 $LANG['main_upload_limit'] = '上传文件：';
 $LANG['main_copyright'] = '版权所有：';
-$LANG['main_product_team'] = 'PHPCMS系统开发团队';
+$LANG['main_product_team'] = '系统开发团队';
 $LANG['main_product_planning'] = '总 策 划：';
 $LANG['main_product_dev'] = '团队成员：';
 $LANG['main_product_ui'] = 'UI 设计：';
@@ -336,19 +336,19 @@ $LANG['linkage_tips'] = '温馨提示：添加联动菜单后，请点击联动�
 
 ////IP禁止
 $LANG['deblocking_time'] = '解封时间';
-$LANG['time_isok']						=	'日期合法';
-$LANG['time_ismust']					=	'必选日期';
-$LANG['ip_exit']						=	'IP已存在';
-$LANG['connecting']						=	'正在连接，请稍候。';
-$LANG['ip_type_error']					=	'格式不是ip地址！';
+$LANG['time_isok'] = '日期合法';
+$LANG['time_ismust'] = '必选日期';
+$LANG['ip_exit'] = 'IP已存在';
+$LANG['connecting'] = '正在连接，请稍候。';
+$LANG['ip_type_error'] = '格式不是ip地址！';
 
 //// keyword.php
 $LANG['keyword_name'] = '关键词';
-$LANG['keyword_listorder'] = '排序权值'; 
-$LANG['quote_num'] = '引用次数'; 
-$LANG['last_quote'] = '最后引用'; 
-$LANG['click_num'] = '点击次数'; 
-$LANG['last_vistor'] = '最后访问'; 
+$LANG['keyword_listorder'] = '排序权值';
+$LANG['quote_num'] = '引用次数';
+$LANG['last_quote'] = '最后引用';
+$LANG['click_num'] = '点击次数';
+$LANG['last_vistor'] = '最后访问';
 ////敏感词
 $LANG['badword_name'] = '敏感词';
 $LANG['badword_replacename'] = '替换词';
@@ -359,42 +359,42 @@ $LANG['badword_edit'] = '编辑敏感词';
 $LANG['badword_confirm_del'] = '是否删除该敏感词';
 
 
-$LANG['badword_common'] 		= '一般';
-$LANG['badword_dangerous']		= '危险';
-$LANG['badword_level_info']		= '(一般: 用替换词替换 , 危险: 直接去除)';
-$LANG['badword_notreplace']		= '不填替换词了吗？';
-$LANG['badword_noreplace']		= '替换词，可以为空';
-$LANG['badword_pleasechose']	= '请选择再执行操作';
-$LANG['badword_confom_del']		= '确认要删除 『 选中 』 吗？';
+$LANG['badword_common'] = '一般';
+$LANG['badword_dangerous'] = '危险';
+$LANG['badword_level_info'] = '(一般: 用替换词替换 , 危险: 直接去除)';
+$LANG['badword_notreplace'] = '不填替换词了吗？';
+$LANG['badword_noreplace'] = '替换词，可以为空';
+$LANG['badword_pleasechose'] = '请选择再执行操作';
+$LANG['badword_confom_del'] = '确认要删除 『 选中 』 吗？';
 
-$LANG['badword_require']		= '要求';
-$LANG['badword_import_infos']	= '1.文件要求每行一个敏感词条目；<br>
+$LANG['badword_require'] = '要求';
+$LANG['badword_import_infos'] = '1.文件要求每行一个敏感词条目；<br>
 2.请使用英文标点，参数之间用英文","隔开。<br>
 3.敏感级别由数字 1,2代替，1--一般；2--敏感；<br>';
 
 //新闻协议
-$LANG['google_info']			= '关于 Sitemaps/互联网新闻开放协议';
-$LANG['google_rate']			= '更新频率';
-$LANG['google_nums']			= '生成数量';
-$LANG['google_sitemaps']		= '生成 Sitemaps';
-$LANG['google_baidunews']		= '生成 互联网新闻开放协议';
-$LANG['google_period']			= '更新周期';
-$LANG['google_startmake']		= '开始生成';
-$LANG['google_ismake']			= '生成XML文件';
-$LANG['google_select_db']		= '选择数据来源';
+$LANG['google_info'] = '关于 Sitemaps/互联网新闻开放协议';
+$LANG['google_rate'] = '更新频率';
+$LANG['google_nums'] = '生成数量';
+$LANG['google_sitemaps'] = '生成 Sitemaps';
+$LANG['google_baidunews'] = '生成 互联网新闻开放协议';
+$LANG['google_period'] = '更新周期';
+$LANG['google_startmake'] = '开始生成';
+$LANG['google_ismake'] = '生成XML文件';
+$LANG['google_select_db'] = '选择数据来源';
 
-$LANG['google_update']			= '一直更新';
-$LANG['google_noupdate']		= '从不更新';
+$LANG['google_update'] = '一直更新';
+$LANG['google_noupdate'] = '从不更新';
 
-$LANG['google_hour']			= '小时';
-$LANG['google_day']				= '天';
-$LANG['google_week']			= '周';
-$LANG['google_month']			= '月';
-$LANG['google_year']			= '年';
+$LANG['google_hour'] = '小时';
+$LANG['google_day'] = '天';
+$LANG['google_week'] = '周';
+$LANG['google_month'] = '月';
+$LANG['google_year'] = '年';
 
 
-$LANG['explain']				= '说明';
-$LANG['google_infos']			= '<b>Sitemaps</b><br>
+$LANG['explain'] = '说明';
+$LANG['google_infos'] = '<b>Sitemaps</b><br>
 
 Sitemaps 服务旨在使用 Feed 文件 sitemap.xml 通知 Google、Yahoo! 以及 Microsoft 等 Crawler(爬虫)网站上哪些文件需要索引、这些文件的最后修订时间、更改频度、文件位置、相对优先索引权，这些信息将帮助他们建立索引范围和索引的行为习惯。详细信息请查看 sitemaps.org 网站上的说明。<br>
 
@@ -405,7 +405,7 @@ Sitemaps 服务旨在使用 Feed 文件 sitemap.xml 通知 Google、Yahoo! 以�
 <B>互联网新闻开放协议：</B> <br>
 1、互联网新闻开放协议》是百度新闻搜索制定的搜索引擎新闻源收录标准，网站可将发布的新闻内容制作成遵循此开放协议的XML格式的网页（独立于原有的新闻发布形式）供搜索引擎索引。 PHPCMS可自动生成网站的Sitemaps，但是您还需要向google或者baidu提交Sitemaps的访问地址。<br>
 您的网站的Sitemaps 访问地址为：<?=APP_PATH?>sitemaps.xml<br>
-PHPCMS可自动生成网站的<<互联网新闻开放协议>>，但是您还需要向baidu提交访问地址。<br>
+系统可自动生成网站的<<互联网新闻开放协议>>，但是您还需要向baidu提交访问地址。<br>
 您的网站的Sitemaps 访问地址为：<?=APP_PATH?>baidunews.xml<br>
 更多关于Google Sitemaps的信息：https://www.google.com/webmasters/sitemaps/login?hl=zh_CN<br>
 更多关于<<互联网新闻开放协议>>的信息：http://news.baidu.com/newsop.html#kg<br>';
@@ -447,9 +447,9 @@ $LANG['input_catname'] = '请输入栏目名称';
 $LANG['input_dirname'] = '请输入目录名称';
 $LANG['enter_the_correct_catname'] = '目录名称必须为字母、数字、下划线、中划线';
 $LANG['catname_have_exists'] = '目录名称已存在';
-$LANG['follow_catname_have_exists'] =  '<br>以下栏目因目录名称已经存在，没有被添加：';
-$LANG['domain_name_format'] = '域名可为空，格式应该为http://www.phpcms.cn/';
-$LANG['domain_end_string'] = '格式应该为http://www.phpcms.cn/，请以‘/’结束';
+$LANG['follow_catname_have_exists'] = '<br>以下栏目因目录名称已经存在，没有被添加：';
+$LANG['domain_name_format'] = '域名可为空，格式应该为http://www.swooer.cn/';
+$LANG['domain_end_string'] = '格式应该为http://www.swooer.cn/，请以‘/’结束';
 $LANG['template_setting'] = '请在【模板设置】选项中设置模板';
 $LANG['catgory_basic'] = '基本选项';
 $LANG['catgory_createhtml'] = '生成HTML设置';
@@ -507,10 +507,10 @@ $LANG['system'] = '系统';
 $LANG['must_input'] = '必填';
 $LANG['contribute'] = '投稿';
 $LANG['badword_export'] = '敏感词导出';
-$LANG['badword_import'] = '批量导入'; 
+$LANG['badword_import'] = '批量导入';
 //site manage
 $LANG['site_management'] = '站点管理';
-$LANG['add_site'] = '添加站点'; 
+$LANG['add_site'] = '添加站点';
 $LANG['basic_configuration'] = '基本配置';
 $LANG['site_dirname'] = '站点目录';
 $LANG['site_name'] = '站点名';
@@ -522,8 +522,8 @@ $LANG['release_point_configuration'] = '发布点配置';
 $LANG['template_style_configuration'] = '模板风格配置';
 $LANG['style_name'] = '风格名';
 $LANG['site_dirname_err_msg'] = '只能包括数字、字母、下划线三种类型。';
-$LANG['site_domain_ex'] = '请填写域名，格式为：http://www.phpcms.cn/';
-$LANG['site_domain_ex2'] = '格式应该为http://www.phpcms.cn/，请以‘/’结束';
+$LANG['site_domain_ex'] = '请填写域名，格式为：http://www.swooer.cn/';
+$LANG['site_domain_ex2'] = '格式应该为http://www.swooer.cn/，请以‘/’结束';
 $LANG['style_name_point'] = '请选择风格（至少选一个）';
 $LANG['select_at_least_1'] = '至少选择1个';
 $LANG['please_select_a_style'] = '请选择模板风格。';
@@ -633,8 +633,8 @@ $LANG['keylink'] = '关联链接';
 $LANG['keylink_edit'] = '关联链接编辑';
 $LANG['keylink_confirm_del'] = '是否删除该关联词';
 $LANG['update_formguide_model'] = '更新表单向导模型';
-$LANG['update_vote_setting']	= '更新投票模块配置';
-$LANG['update_link_setting']	=	'更新友情链接模块配置';
+$LANG['update_vote_setting'] = '更新投票模块配置';
+$LANG['update_link_setting'] = '更新友情链接模块配置';
 
 $LANG['linkage'] = '联动菜单';
 $LANG['module'] = '模块';
@@ -668,7 +668,7 @@ $LANG['default_style'] = '默认风格';
 
 $LANG['your_server_it_may_not_have_access_to'] = '您的服务器，可能无法访问到';
 $LANG['_please_check_the_server_configuration'] = '，请检查服务器配置。';
-$LANG['phpcms_logon'] = 'phpcms 登录';
+$LANG['phpcms_logon'] = '登录';
 $LANG['please_input_your_password_the_picture_corresponding_location_6_digits'] = '请输入口令卡中图片对应位置的6位数字';
 $LANG['ht_card'] = '口令卡';
 $LANG['apply_for_a_password_card'] = '申请口令卡';

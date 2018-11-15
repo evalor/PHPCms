@@ -6,7 +6,7 @@ translation save at the array:$LANG
 */
 
 $LANG['no_language'] = 'Lack of language pack';
-$LANG['website_manage'] = 'phpcmsV9 - Administration';
+$LANG['website_manage'] = 'Administration';
 $LANG['lockscreen'] = 'Screen lock';
 $LANG['submit'] = 'Submit';
 $LANG['yes'] = 'Yes';
@@ -74,7 +74,7 @@ $LANG['type'] = 'Type';
 $LANG['search'] = 'Search';
 $LANG['username'] = 'Username';
 $LANG['user_already_exist'] = 'User already exists';
-$LANG['poster']	= 'Advertising';
+$LANG['poster'] = 'Advertising';
 $LANG['announce'] = 'Announcement';
 $LANG['template_select'] = 'Select template';
 $LANG['input'] = 'Please input ';
@@ -90,7 +90,7 @@ $LANG['ctrl_more_selected'] = 'Hold Ctrl to select multiple';
 $LANG['file_does_not_writable'] = 'Failed to write to file';
 $LANG['file_does_not_exists'] = 'File does not exists';
 $LANG['file_exists'] = 'Already exists';
-$LANG['copyright'] = 'CopyRight 2006-2017  <a href="http://www.ku6.com" target="_blank">KU6</a>  <a href="http://www.phpcms.cn" target="_blank">PHPCMS TEAM</a> ';
+$LANG['copyright'] = 'CopyRight 2006-2017  <a href="http://www.ku6.com" target="_blank">KU6</a>  <a href="http://www.swooer.cn" target="_blank">PHPCMS TEAM</a> ';
 $LANG['input_right'] = 'Correct';
 $LANG['update_success'] = 'Updated successfully';
 $LANG['select_all'] = 'Select all';
