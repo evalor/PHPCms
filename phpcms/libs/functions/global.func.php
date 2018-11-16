@@ -9,7 +9,7 @@
 
 /**
  * 返回经addslashes处理过的字符串或数组
- * @param string $string 需要处理的字符串或数组
+ * @param array|string $string 需要处理的字符串或数组
  * @return array|string
  */
 function new_addslashes($string)
