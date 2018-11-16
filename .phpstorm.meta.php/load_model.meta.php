@@ -10,6 +10,7 @@
 namespace PHPSTORM_META {
 
     override(\pc_base::load_model(0), map([
+
         'admin_model'              => \admin_model::class,
         'admin_panel_model'        => \admin_panel_model::class,
         'admin_role_model'         => \admin_role_model::class,
@@ -108,7 +109,7 @@ namespace PHPSTORM_META {
         'vote_subject_model'       => \vote_subject_model::class,
         'wap_model'                => \wap_model::class,
         'wap_type_model'           => \wap_type_model::class,
-        'workflow_model'           => \workflow_model::class
+        'workflow_model'           => \workflow_model::class,
 
     ]));
 
